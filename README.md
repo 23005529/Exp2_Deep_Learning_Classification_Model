@@ -167,7 +167,7 @@ print(f'Predicted class for sample input: {predicted_class_label}')
 print(f'Actual class for sample input: {label_encoder.inverse_transform([y_test[12].item()])[0]}')
 ```
 ## Dataset Information
-<img width="1288" height="255" alt="image" src="https://github.com/user-attachments/assets/ce6148e9-f9a4-40a2-bbbd-82d5493734eb" />
+<img width="854" height="731" alt="image" src="https://github.com/user-attachments/assets/0531006c-1ae8-4511-ac37-e4a3750dda5f" />
 
 ## OUTPUT
 ### Confusion Matrix
